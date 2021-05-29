@@ -9,7 +9,7 @@ The 8-puzzle problem consists of a 3-by-3 grid with 8 tiles numbered from 1-8 an
 ## Instructions on Running the Program
 Make sure all .py files are in the same directory. Puzzle files should be .txt files with numbers representing the tiles. Tiles in the same row are separated by commas, and rows are separated by new line characters.
 
-Example:
+Example:\
 1,2,3\
 4,5,6\
 ,7,8
